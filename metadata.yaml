@@ -1,0 +1,29 @@
+_repo: The-first-French-Republic-b-A-study-of-the-origin-and-the-contents-of-the-declaration-of-the-__70965
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conaway, Horace Mann
+    gutenberg_agent_id: '56013'
+    url: http://www.gutenberg.org/2009/agents/56013
+description: ''
+gutenberg_issued: '2023-06-12'
+identifiers:
+  gutenberg: '70965'
+language: en
+pgterms:marc904: https://archive.org/details/firstfrenchrepub00conauoft/page/n5/mode/2up
+pgterms:marc905: 20201214200200conaway
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bColumbia University Press, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The first French Republic : $b A study of the origin and the contents of the
+  declaration of the rights of man, of the constitution, and of the adoption of the
+  republican form of government in 1792'
+url: http://www.gutenberg.org/ebooks/70965
