@@ -1,11 +1,16 @@
 _repo: The-first-French-Republic-b-A-study-of-the-origin-and-the-contents-of-the-declaration-of-the-__70965
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70965-h/images/cover.jpg
 creator:
   author:
     agent_name: Conaway, Horace Mann
     gutenberg_agent_id: '56013'
     url: http://www.gutenberg.org/2009/agents/56013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70965#The-first-French-Republic-b-A-study-of-the-origin-and-the-contents-of-the-declaration-of-the-_
 gutenberg_issued: '2023-06-12'
 identifiers:
   gutenberg: '70965'
